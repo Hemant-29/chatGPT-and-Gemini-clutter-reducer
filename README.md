@@ -1,6 +1,6 @@
 # chatGPT-and-Gemini-clutter-reducer
 This extension removes the header bar and footer disclaimer on the ChatGPT website, as well as some clutter on the Gemini website. This gives you more vertical space to better view content, making the interface cleaner and easier to use on desktop screens.
-Download the extension folder or .crx file from [link].
+Download the extension folder or .crx file.
 
 Open Chrome and go to chrome://extensions.
 
